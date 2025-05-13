@@ -105,4 +105,4 @@ class XmlParser implements FileParserInterface
         
         return $result;
     }
-} 
+}

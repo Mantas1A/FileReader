@@ -21,4 +21,4 @@ interface FileParserInterface
      * @return bool True if this parser can handle the file type
      */
     public function supports(string $mimeType, string $extension): bool;
-} 
+}

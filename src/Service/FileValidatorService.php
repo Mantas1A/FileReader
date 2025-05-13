@@ -86,4 +86,4 @@ class FileValidatorService
             default => 'Unknown upload error'
         };
     }
-} 
+}

@@ -34,4 +34,4 @@ class FileParserFactory
 
         throw new \Exception('No suitable parser found for the file type');
     }
-} 
+}

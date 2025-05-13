@@ -64,4 +64,4 @@ class FileConfig
     {
         return $this->config['allowedExtensionTypes'];
     }
-} 
+}

@@ -102,4 +102,4 @@ class CsvParser implements FileParserInterface
         
         return array_search(max($counts), $counts) ?: ',';
     }
-} 
+}

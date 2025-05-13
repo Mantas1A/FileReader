@@ -29,4 +29,4 @@ class JsonParser implements FileParserInterface
     {
         return $this->parsingErrors;
     }
-} 
+}
